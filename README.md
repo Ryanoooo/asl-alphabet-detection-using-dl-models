@@ -77,6 +77,4 @@ The notebook includes sections for evaluating model performance using metrics su
 
 Feel free to fork this repository, make improvements, and submit pull requests.
 
-## License
 
-(Add your desired license information here, e.g., MIT License)
