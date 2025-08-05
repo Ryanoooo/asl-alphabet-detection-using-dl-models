@@ -4,14 +4,13 @@ This repository contains a Jupyter Notebook (`asl-alphabet-detection-using-dl-mo
 
 ## Table of Contents
 
-  * [Introduction](https://www.google.com/search?q=%23introduction)
-  * [Dataset](https://www.google.com/search?q=%23dataset)
-  * [Installation](https://www.google.com/search?q=%23installation)
-  * [Usage](https://www.google.com/search?q=%23usage)
-  * [Models](https://www.google.com/search?q=%23models)
-  * [Results](https://www.google.com/search?q=%23results)
-  * [Contributing](https://www.google.com/search?q=%23contributing)
-  * [License](https://www.google.com/search?q=%23license)
+  * [Introduction](#introduction)
+  * [Dataset](#dataset)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Models](#models)
+  * [Results](#results)
+  * [Contributing](#contributing)
 
 ## Introduction
 
